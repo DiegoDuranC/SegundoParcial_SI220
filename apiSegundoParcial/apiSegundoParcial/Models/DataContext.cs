@@ -12,7 +12,5 @@ namespace apiSegundoParcial.Models
         {
 
         }
-
-        public System.Data.Entity.DbSet<apiSegundoParcial.Models.Friends> Friends { get; set; }
     }
 }
