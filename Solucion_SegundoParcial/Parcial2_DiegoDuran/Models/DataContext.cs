@@ -12,5 +12,7 @@ namespace Parcial2_DiegoDuran.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<Parcial2_DiegoDuran.Models.Friends> Friends { get; set; }
     }
 }
